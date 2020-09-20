@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_page_section_about_projects",
+  "info": {
+    "name": "sectionAboutProject",
+    "icon": "desktop"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    },
+    "img": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": true
+    }
+  }
+}

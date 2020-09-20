@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_section_about_teches",
+  "info": {
+    "name": "sectionAboutTech",
+    "icon": "bong"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "techIcon": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.tech-icon"
+    }
+  }
+}
