@@ -13,7 +13,7 @@
     },
     "description": {
       "type": "text",
-      "required": true
+      "required": false
     },
     "button": {
       "type": "component",

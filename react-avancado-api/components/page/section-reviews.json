@@ -10,7 +10,7 @@
       "type": "component",
       "repeatable": true,
       "component": "page.reviews",
-      "required": true,
+      "required": false,
       "min": 4
     }
   }

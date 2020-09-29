@@ -8,11 +8,11 @@
   "attributes": {
     "question": {
       "type": "text",
-      "required": true
+      "required": false
     },
     "answer": {
       "type": "richtext",
-      "required": true
+      "required": false
     }
   }
 }

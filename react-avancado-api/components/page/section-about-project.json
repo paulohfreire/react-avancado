@@ -12,14 +12,12 @@
     },
     "description": {
       "type": "text",
-      "required": true
+      "required": false
     },
     "img": {
       "model": "file",
       "via": "related",
-      "allowedTypes": [
-        "images"
-      ],
+      "allowedTypes": ["images"],
       "plugin": "upload",
       "required": true
     }
