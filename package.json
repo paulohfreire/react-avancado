@@ -19,7 +19,7 @@
     ]
   },
   "dependencies": {
-    "@babel/preset-typescript": "^7.10.4",
+    "@babel/preset-typescript": "^7.12.17",
     "@types/jest": "^26.0.14",
     "@types/jquery": "^3.5.3",
     "babel-preset-next": "^1.4.0",
