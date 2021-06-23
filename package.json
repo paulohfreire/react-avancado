@@ -50,7 +50,7 @@
     "eslint-plugin-react": "^7.21.4",
     "eslint-plugin-react-hooks": "^4.1.0",
     "husky": "^4.2.5",
-    "jest": "^26.5.3",
+    "jest": "^27.0.5",
     "lint-staged": "^10.2.13",
     "prettier-eslint": "^11.0.0",
     "react-is": "^16.13.1",
